@@ -13,6 +13,6 @@ cout << "Year Level: 2" << endl;
 cout << "Student ID: 2026-001" << endl;
 cout << "Email: juan@example.com" << endl;
 cout << endl;
-cout << "Welcome to the system!" << endl;
+cout << "Welcome, valued student!" << endl;
 return 0;
 }
